@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=BhuTuka+Expanded+One&family=Fraunces:opsz,wght@9..144,300&family=Montserrat&family=Outfit&family=Square+Peg&display=swap');
+body{
+    background-color: #222831;
+}
+img{
+    border-radius: 10px;
+}
+.page_button{
+    width: 23%;
+    height: auto;
+    border: 0;
+    padding: 15px;
+    background-color: #00ADB5;
+    border-radius: 20px;
+    margin: 0.5%;
+}
+.preview_image{
+    max-width: 100%;
+    width: 370px;
+}
+.preview_text{
+    font-family: "Bebas Neue", "Helvetica";
+    font-size: x-large;
+    color: #EEEEEE;
+    margin: 20px;
+}
+.head_text{
+    font-family: "Bebas Neue", "Helvetica";
+    letter-spacing: 4px;
+    color: #EEEEEE;
+    font-size: x-large;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
