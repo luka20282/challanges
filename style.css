@@ -5,6 +5,9 @@ body{
 img{
     border-radius: 10px;
 }
+.container{
+    justify-content: center;
+}
 .page_button{
     width: 23%;
     height: auto;
