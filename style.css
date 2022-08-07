@@ -6,7 +6,7 @@ img{
     border-radius: 10px;
 }
 .container{
-    align-content: center;
+    margin: auto;
 }
 .page_button{
     width: 23%;
